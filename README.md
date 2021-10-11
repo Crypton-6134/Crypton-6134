@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Crypton6134
-- 👀 I’m interested in Programmng and electronics.
-- 🌱 I’m currently learning c,c++ and python
+- 👀 I’m interested in Programmng and Electronics.
+- 🌱 I’m currently learning C,C++ and Python
 - 💞️ I’m looking to collaborate on 
-- 📫 You can reach me using my email.
+- 📫 You can reach me using
 
 <!---
 Crypton-6134/Crypton-6134 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
